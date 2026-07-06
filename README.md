@@ -10,7 +10,7 @@ This repository contains selected hardware, RTL, verification, and embedded-rela
 
 ## WindBorne Informal Questions
 
-* [Informal Questions PDF](./WindBorne_Informal_Questions.pdf)
+* [Questions PDF](./WindBorne_Informal_Questions.pdf)
 
 ## Featured Project: SPI Slave with Flow Control
 
